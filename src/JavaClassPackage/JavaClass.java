@@ -9,7 +9,8 @@ public class JavaClass {
 	public void MyBeforeTest() {
 
 	}
-
+//////////////////////////////////////////////
+	String myName ="dadoooo";
 	@Test
 
 	public void MyTest() {
